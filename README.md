@@ -33,9 +33,11 @@
    ```bash
    git clone https://github.com/yourusername/gesture_recognition.git
 Замените yourusername на ваш логин GitHub.
+
 2. Перейдите в папку проекта:
    ```bash
    cd gesture_recognition
+   
 3. Установите зависимости:
     ```bash
    pip install -r requirements.txt
